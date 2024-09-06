@@ -1,0 +1,8 @@
+import wollok.game.*
+
+import example.*
+
+program PepitaGame {
+	juegoDeManzanas.iniciar()
+	game.start()
+}
